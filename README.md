@@ -10,4 +10,4 @@
 
 这些平台汇聚了丰富的麻豆视频资源，分类明确，更新频繁，用户可以根据类型或演员快速筛选内容。每个视频页面提供完整影片信息，包括片长、清晰度、演员等细节。平台支持高清视频播放，并根据网络状态自动优化画质，确保流畅播放体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang6 ）</span>
